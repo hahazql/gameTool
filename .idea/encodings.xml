@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="Encoding" defaultCharsetForPropertiesFiles="UTF-8">
+    <file url="file://$PROJECT_DIR$/src/main/java/com/hahazql/util/auto/config/AutoConfig.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/main/java/com/hahazql/util/auto/config/AutoConfigException.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/main/java/com/hahazql/util/auto/config/AutoConfigUtil.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/main/java/com/hahazql/util/auto/config/AutoExcel.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/main/java/com/hahazql/util/auto/config/AutoFieldConfig.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/main/java/com/hahazql/util/auto/config/AutoParam.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/main/java/com/hahazql/util/auto/config/ClazzConfig.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/main/java/com/hahazql/util/auto/config/FieldConfig.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/main/java/com/hahazql/util/cache/LRUHashMap.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/main/java/com/hahazql/util/cache/MapComparator.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/main/java/com/hahazql/util/cache/Pair.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/main/java/com/hahazql/util/clazz/ASMClassLoader.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/main/java/com/hahazql/util/clazz/ASMUtils.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/main/java/com/hahazql/util/clazz/ClassLoadUtil.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/main/java/com/hahazql/util/concurrent/ConcurrentLRUHashMap.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/main/java/com/hahazql/util/concurrent/ConcurrentLinkedHashMap.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/main/java/com/hahazql/util/concurrent/Histogram.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/main/java/com/hahazql/util/exception/BaseException.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/main/java/com/hahazql/util/format/EncodeUtil.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/main/java/com/hahazql/util/format/HexBin.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/main/java/com/hahazql/util/format/HexFormatUtil.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/main/java/com/hahazql/util/format/IntegerUtil.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/main/java/com/hahazql/util/format/LongUtil.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/main/java/com/hahazql/util/format/SerializeUtil.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/main/java/com/hahazql/util/helper/CharTypes.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/main/java/com/hahazql/util/helper/ExcelUtil.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/main/java/com/hahazql/util/helper/MathUtil.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/main/java/com/hahazql/util/helper/UTF8Decoder.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/main/java/com/hahazql/util/http/UriUtils.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/main/java/com/hahazql/util/system/EPlatform.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/main/java/com/hahazql/util/system/OSinfo.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/main/java/com/hahazql/util/tcp/AddressUtils.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/main/java/com/hahazql/util/test/TestConfig.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/main/java/com/hahazql/util/test/TestConfig_2.java" charset="UTF-8" />
+    <file url="PROJECT" charset="UTF-8" />
+  </component>
+</project>
